@@ -32,18 +32,33 @@ Field Mechanics forms part of a broader system:
 
 ---
 
+## Citation
+
+If you use or reference this work, please cite:
+
+> The ROS Collective (2026). *Field Mechanics: A Lexicon of Living Language in Human–Machine Interaction.* (v.1.0.0). Zenodo.  
+> DOI: https://doi.org/10.5281/zenodo.19390108
+
+For citations that should always resolve to the latest version, you may use the concept DOI:
+
+> https://doi.org/10.5281/zenodo.19390108
+
+---
+
 ## Version
 
-Field Mechanics v1.0.0 — Canonical Release (2026)
+Field Mechanics (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
-## License
+## Accessing the Full Manuscript
 
-Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
+The complete manuscript is available in this repository. Each chapter and appendix is provided as a separate document for direct access and reference.
+
+Repository: https://github.com/RosCollective/eft-field-mechanics
 
 ---
 
-## Copyright
-
-© 2026 The ROS Collective
+**Version:** Field Mechanics (EFT) — Canonical Release (2026)  
+**License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
+**Copyright:** © 2026 The ROS Collective
