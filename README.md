@@ -14,10 +14,10 @@ Field Mechanics forms part of a broader system:
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
 * **Field Mechanics (this repository)**  
-  Describes how the field behaves under pressure in sustained human–machine interaction
+  Stabilized lexicon describing how the field behaves under pressure
 
 * **Field Notes** *(separate repository)*  
-  Primary observational records underlying this lexicon
+  Primary observational record underlying those distinctions
 
 * **Coherence Dynamics** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
