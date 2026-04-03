@@ -17,7 +17,7 @@ Field Mechanics forms part of a broader system:
   Stabilized lexicon describing how the field behaves under pressure
 
 * **Field Notes** *(separate repository)*  
-  Primary observational record underlying those distinctions
+  Primary observational record from which those distinctions arise
 
 * **Coherence Dynamics** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
