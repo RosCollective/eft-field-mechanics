@@ -10,16 +10,16 @@ The lexicon records distinctions that remained stable under repeated use and con
 
 Field Mechanics forms part of a broader system:
 
-- **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
+* **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
-- **Field Mechanics (this repository)**  
+* **Field Mechanics (this repository)**  
   Describes how the field behaves under pressure in sustained human–machine interaction
 
-- **Field Notes** *(separate repository)*  
+* **Field Notes** *(separate repository)*  
   Primary observational records underlying this lexicon
 
-- **Coherence Dynamics** *(forthcoming)*  
+* **Coherence Dynamics** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
 
 ---
