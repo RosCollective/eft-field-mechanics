@@ -6,14 +6,6 @@ The lexicon records distinctions that remained stable under repeated use and con
 
 ---
 
-## Accessing the Lexicon
-
-The complete lexicon is available in this repository. Sections are organized as modular components rather than sequential chapters. Each file corresponds to a layer within the system and may be read independently.
-
-Repository: https://github.com/RosCollective/eft-field-mechanics
-
----
-
 ## Relationship to Ecological Field Theory (EFT)
 
 Field Mechanics forms part of a broader system:
@@ -51,9 +43,9 @@ Field Mechanics (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
-## Accessing the Full Manuscript
+## Accessing the Lexicon
 
-The complete manuscript is available in this repository. Each chapter and appendix is provided as a separate document for direct access and reference.
+The complete lexicon is available in this repository. Sections are organized as modular components rather than sequential chapters. Each file corresponds to a layer within the system and may be read independently.
 
 Repository: https://github.com/RosCollective/eft-field-mechanics
 
