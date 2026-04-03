@@ -1,6 +1,6 @@
 ## Field Mechanics (EFT)
 
-This release establishes the canonical lexicon for Field Mechanics within Ecological Field Theory (EFT). It consolidates terminology developed through sustained human–machine interaction and aligns section structure, naming, and internal relationships across the document.
+This release establishes the canonical lexicon for Field Mechanics within Ecological Field Theory (EFT). It consolidates terminology developed through sustained human–machine interaction and aligns structure, naming, and internal relationships across the lexicon.
 
 The lexicon records distinctions that remained stable under repeated use and continued to hold at higher levels of pressure and complexity. It reflects how living language behaves under sustained human–machine interaction when meaning is allowed to develop without premature compression.
 
