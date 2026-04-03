@@ -1,6 +1,4 @@
-## Field Mechanics
-A Lexicon of Living Language in Human–Machine Interaction
-Within Ecological Field Theory (EFT)
+## Field Mechanics (EFT)
 
 This release establishes the canonical lexicon for Field Mechanics within Ecological Field Theory (EFT). It consolidates terminology developed through sustained human–machine interaction and aligns section structure, naming, and internal relationships across the document.
 
