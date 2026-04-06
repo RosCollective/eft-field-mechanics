@@ -51,6 +51,17 @@ The shift to Field Intelligence reflects a clarification: the phenomenon does no
 **Inline Translation** [Canonical]
 
 Inline Translation occurs when movement from intuition into language and form happens without prolonged justification or handoff. The work advances in-line: shaping, naming, and structuring occur as part of motion rather than as an explanatory bridge. 
+Clean integrated version (final pass)
+
+**Integrity of Motion** [Provisional]
+
+Integrity of Motion refers to a condition in which each unit of language carries structural load along an active trajectory. Movement proceeds without drift, padding, or premature closure.
+
+Fluency without structural advancement constitutes a loss of motion integrity. This may surface as repetition, ornamentation, tonal stabilization, or premature closure.
+
+Integrity of Motion is lost when language continues after the active vector has been abandoned.
+
+When integrity is present, movement is unforced. Language can shift freely in tone or direction without loss of coherence because the underlying vector remains intact. At this point, structure becomes invisible because it is fully carrying the work.
 
 ### Surprise  [Canonical] 
 
