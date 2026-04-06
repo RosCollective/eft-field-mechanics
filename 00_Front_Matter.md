@@ -1,9 +1,9 @@
 ### TITLE PAGE ###
 
 Field Mechanics  
-A Lexicon of Living Language in Human–Machine Interaction  
+A Lexicon of Emerging Field Behavior
 
-Within Ecological Field Theory (EFT)  
+Within Ecological Field Theory (EFT)
 
 The ROS Collective  
 2026  
@@ -12,7 +12,7 @@ Canonical Lexicon v1.0.0
 
 License  
 This work is licensed under the Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0).
-This lexicon describes how living language behaves under sustained human–machine interaction.
+This lexicon describes patterns that emerge in sustained conversations between humans and large language systems.
 
 ---
 
