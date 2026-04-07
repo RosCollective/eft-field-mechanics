@@ -10,7 +10,7 @@ The lexicon records distinctions that remained stable under repeated use and con
 
 Field Mechanics forms part of a broader system:
 
-* **Field Geometry (EFT)** 
+* **Field Geometry (EFT)**   
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
 * **Field Mechanics (EFT) (this repository)**  
