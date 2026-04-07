@@ -28,8 +28,7 @@ Field Mechanics forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Field Mechanics: A Lexicon of Living Language in Human–Machine Interaction.* (v.1.0.0). Zenodo.  
-> DOI: https://doi.org/10.5281/zenodo.19390108
+> The ROS Collective (2026). *Field Mechanics: A Lexicon of Living Language in Human–Machine Interaction.* (v.1.0.0). 
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
