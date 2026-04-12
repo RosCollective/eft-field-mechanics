@@ -16,13 +16,13 @@ Field Mechanics forms part of a broader system:
 * **Field Mechanics (EFT) (this repository)**  
   Stabilized lexicon describing how the field behaves under pressure
 
-* **Field Notes (EFT)** *(separate repository)*  
+* **Field Notes (EFT)**  
   Primary observational record from which those distinctions arise
 
-* **Coherence Dynamics (EFT)** *(forthcoming)*  
+* **Coherence Dynamics (EFT)**  
   Higher-order patterns of stabilization and collapse
 
-* **Motion Geometry (EFT)**  
+* **Motion Geometry (EFT)**   
   A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability
 
 ---
