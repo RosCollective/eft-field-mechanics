@@ -22,6 +22,9 @@ Field Mechanics forms part of a broader system:
 * **Coherence Dynamics (EFT)** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
 
+* **Motion Geometry (EFT)**  
+  A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability
+
 ---
 
 ## Citation
