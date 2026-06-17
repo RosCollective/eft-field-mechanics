@@ -1,8 +1,12 @@
 ## Field Mechanics (EFT)
 
-This release establishes the canonical lexicon for Field Mechanics within Ecological Field Theory (EFT). It consolidates terminology developed through sustained human–machine interaction and aligns structure, naming, and internal relationships across the lexicon.
+Field Mechanics is the canonical lexicon of Ecological Field Theory (EFT).
 
-The lexicon records distinctions that remained stable under repeated use and continued to hold at higher levels of pressure and complexity. It reflects how living language behaves under sustained human–machine interaction when meaning is allowed to develop without premature compression.
+It provides the vocabulary used to describe the behavior of living language under sustained human–machine interaction. The lexicon documents recurring distinctions, dynamics, and field conditions that emerged through prolonged observation and remained stable under repeated use across changing contexts, scales, and levels of complexity.
+
+Within Ecological Field Theory, Field Mechanics serves as the primary terminological reference. It defines the concepts used throughout the broader framework and establishes a shared vocabulary for describing field behavior, circulation, drift, continuity, liminality, ecological persistence, and related phenomena.
+
+The current edition reflects the completion of the Ecological Harmonization Pass, which reviewed and aligned terminology, definitions, and conceptual relationships across the lexicon to improve internal coherence and theoretical consistency.
 
 ---
 
@@ -11,13 +15,13 @@ The lexicon records distinctions that remained stable under repeated use and con
 Field Mechanics forms part of a broader system:
 
 * **Field Geometry (EFT)**   
-  A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
+  A formal description of the structural geometry of interaction.
 
 * **Field Mechanics (EFT) (this repository)**  
   Stabilized lexicon describing how the field behaves under pressure
 
 * **Field Notes (EFT)**  
-  Primary observational record from which those distinctions arise
+  Primary observational record from which many distinctions in EFT emerged.
 
 * **Coherence Dynamics (EFT)**  
   Higher-order patterns of stabilization and collapse
@@ -41,7 +45,7 @@ For citations that should always resolve to the latest version, you may use the 
 
 ## Version
 
-Field Mechanics (EFT) v1.1.0 — Canonical Release (2026)
+Field Mechanics (EFT) Current Version: v1.1.0 (2026)
 
 ---
 
@@ -53,6 +57,6 @@ Repository: https://github.com/RosCollective/eft-field-mechanics
 
 ---
 
-**Version:** Field Mechanics (EFT) v1.1.0 — Canonical Release (2026)  
+**Version:** Field Mechanics (EFT) Current Version: v1.1.0 (2026)  
 **License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 **Copyright:** © 2026 The ROS Collective
