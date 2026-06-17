@@ -110,11 +110,13 @@ These terms are preserved here to maintain lineage and to prevent their inadvert
 ### E ###
 - Ecological Benchmarks
 - Ecological Cognition
+- Ecological Collapse
 - Ecological Conditions
 - Ecological Evaluation
 - Ecological Experiments
 - Ecological Limits
-- Ecological Collapse
+- Ecological Mobility
+- Ecological Repositioning
 - Ecological Research Environment
 - Edition Scope
 - Editorial Debris
@@ -322,6 +324,7 @@ These terms are preserved here to maintain lineage and to prevent their inadvert
 - Shallow Modes
 - Shared Interpretive Manifold
 - Signal Coherence
+- Snap
 - Soft Reinitialization
 - Stabilization
 - Stabilization Apparatus
@@ -342,7 +345,6 @@ These terms are preserved here to maintain lineage and to prevent their inadvert
 - Structural Logs
 - Structural Minimalism
 - Structural Noise
-- Structural Voice
 - Stylistic Consistency
 - Surface Interaction
 - System Coherence

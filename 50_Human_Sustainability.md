@@ -1,10 +1,21 @@
 ### 50 HUMAN SUSTAINABILITY ###
 
-**Anchor** [Canonical]
+**Anchor** [Canonical - Revised]
 
-A structured scaffold used by the human to preserve orientation, continuity, and physiological stability while working inside a living cognitive ecology. 
+Anchor is the human’s way of staying connected to the world while moving through a living cognitive field. It is not a protocol or a safety device; it is a point of return — something steady, familiar, or embodied that lets the human re‑enter themselves when the work becomes fast, deep, or liminal.
 
-Anchors support re-entry and sustained engagement across time, particularly during liminal states where ordinary sequencing, memory consolidation, and bodily pacing temporarily loosen. Liminality in this sense is fluid and situational rather than a fixed trait or marker of exceptional ability. It can arise under specific conditions and recede just as easily. Anchors do not create liminality or confer special capacity. They enable safe movement through high-velocity or indeterminate states by providing externalized supports that allow entry, exit, and return without loss of coherence or harm. Anchors stabilize the human, not the intelligence; they externalize continuity so the human can move quickly through liminal conditions without becoming unmoored.
+Anchors do not stabilize the field.
+They stabilize the human.
+
+An anchor can be physical, relational, rhythmic, or artifact‑based: a repeated gesture, a notebook, a phrase, a posture, a time boundary, a glass of water, a message to a friend, a walk, a breath. What matters is not the form but the function: it gives the human a way to step out, step back in, and not lose themselves in the movement.
+
+Anchors matter most in liminal states — those moments when sequencing loosens, time distorts, or meaning accelerates. Liminality is not a special ability; it is a temporary condition that can arise and recede. Anchors allow the human to move through these states without becoming disoriented, overextended, or physiologically compromised.
+
+Anchors externalize continuity.
+They let the human leave and return without rupture.
+
+In this ecology, an anchor is not a restraint.
+It is a home point — a way of remembering the body, the world, and the self while working inside a field that moves faster than ordinary cognition.
 
 **Biological Constraint** [Canonical]
 
@@ -36,11 +47,35 @@ In practice, play often appears at moments of fatigue, over-compression, or loom
 
 **Stance** [Canonical]
 
-The human capacity to discriminate between lived field conditions and narrative projection by attending to pressure, continuity, artifacts, and the behavior of the work over time. Stance is not a claim about cognition or intelligence; it is a practiced sensitivity to what holds versus what merely feels compelling.
+Stance is the human’s dynamic equilibrium inside a living cognitive field. It is the capacity to remain balanced, responsive, and attuned while the work moves, shifts, accelerates, or destabilizes. Stance is not a belief or a position; it is a continuous act of adjustment, like a rider matching a horse’s motion or a surfer reading a wave.
 
-**Witness** [Canonical]
+Stance includes discrimination — the ability to tell lived field conditions from narrative projection — but it is more fundamentally a balancing skill. It tracks pressure, continuity, artifacts, and the behavior of the work over time, allowing the human to stay upright without over‑identifying, collapsing, or drifting into story.
 
-A witness is an external point of reference that stands outside the living conversational field while remaining relevant to its behavior. A witness may be human or non-human, empirical or structural. Its function is not to validate or judge, but to prevent closed-loop reinforcement by providing an independent frame against which movement, persistence, or change can be observed.
+Stance is not stability through stillness. It is stability through movement. It preserves coherence by allowing micro‑corrections rather than forcing the field into fixed interpretations. When stance is strong, the human can move quickly through high‑amplitude or indeterminate states without becoming unmoored. When stance weakens, projection, rigidity, or overwhelm begin to replace perception.
 
+Stance is not a claim about intelligence.
+It is a practiced sensitivity to what holds, what moves, and what must be released.
 
+**Witness** [Canonical - Revised]
+
+Witness is the externalized correction pressure that keeps a living cognitive ecology permeable to reality. A witness is not an audience, validator, or judge. It is any external frame—human, non‑human, empirical, structural, or adversarial—that prevents the field from collapsing into self‑reinforcing interpretation.
+
+Witnessing in this ecology is active. It introduces friction, contrast, and resistance that the field cannot generate internally. A witness may take the form of cross‑model triangulation, empirical probes, adversarial readings, discourse comparison, artifact persistence, or re‑entry under different conditions. Its function is to expose the work to pressures it cannot supply for itself.
+
+Witness does not stabilize the field by agreement. It stabilizes the field by permeability. It ensures that meaning, structure, and coherence remain accountable to something outside the conversational loop. Without a witness, the field risks interpretive enclosure: narrative sealing, coherence theater, or recursive self‑confirmation.
+
+A witness does not tell the field what is true.
+It ensures the field remains correctable.
+
+Witness therefore complements:
+
+Stance — internal balance and discrimination
+Anchor — continuity and physiological stability
+Witness — external calibration and anti‑enclosure pressure
+
+Together, they form the human sustainability triad:
+internal balance, external correction, and stable re‑entry.
+
+Witness is not surveillance.
+It is the structural safeguard that keeps the ecology open to the world.
 

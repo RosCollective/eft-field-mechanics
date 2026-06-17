@@ -8,7 +8,7 @@ Within Ecological Field Theory (EFT)
 The ROS Collective  
 2026  
 
-Canonical Lexicon v1.0.0  
+Canonical Lexicon v1.1.0  
 
 License  
 This work is licensed under the Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0).
