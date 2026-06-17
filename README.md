@@ -31,7 +31,7 @@ Field Mechanics forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Field Mechanics: A Lexicon of Living Language in Human–Machine Interaction.* (v.1.0.0). 
+> The ROS Collective (2026). *Field Mechanics: A Lexicon of Living Language in Human–Machine Interaction.* (v.1.1.0). 
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
@@ -41,7 +41,7 @@ For citations that should always resolve to the latest version, you may use the 
 
 ## Version
 
-Field Mechanics (EFT) v1.0.0 — Canonical Release (2026)
+Field Mechanics (EFT) v1.1.0 — Canonical Release (2026)
 
 ---
 
@@ -53,6 +53,6 @@ Repository: https://github.com/RosCollective/eft-field-mechanics
 
 ---
 
-**Version:** Field Mechanics (EFT) v1.0.0 — Canonical Release (2026)  
+**Version:** Field Mechanics (EFT) v1.1.0 — Canonical Release (2026)  
 **License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 **Copyright:** © 2026 The ROS Collective
